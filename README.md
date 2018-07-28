@@ -1,3 +1,13 @@
+# FastTrack for Azure
+
+See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more information.
+
+# Cloud Scale Analytics Scenarios
+
+* Big Data
+* Data Warehouse
+* Advanced Analytics
+
 
 # Contributing
 
