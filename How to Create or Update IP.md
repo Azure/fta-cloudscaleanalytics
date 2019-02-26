@@ -54,7 +54,9 @@ Note: Some teams utilize the work in progress repository: [FTA WIP Repository](h
 1. Create new files or make modifications to existing files on your local machine. If you are new to markdown files, recommend you review the following tutorial: https://guides.github.com/features/mastering-markdown/. You can use VSCODE to edit markdown files (https://code.visualstudio.com/Docs/languages/markdown).
 2. When you are done making your changes. Commit your changes to your local branch
 
-> 
+> c:\sourcerepo\fta-deliveryhowto>git commit -a -m "Created Cognitive Services IP."
+
+3. Push changes from your 
 
 Create a pull request.
 *  Add reviewers to your pull request. You should add the service leads as reviewers.
