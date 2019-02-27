@@ -4,12 +4,10 @@ This article outlines the steps needed to create or update existing FTA IP. It d
 <br>
 <br>
 <br>
-<br>
 
 ## Step 1: Inform the Category Leads
 1. Reach out to the category leads for the FTA scenario in question.  You may find the list of category leads here [FTA Service Leads](https://microsoft.sharepoint.com/teams/fasttrackforazure/PM/FastTrack%20for%20Azure%20PMO/Service%20Team%20Engagement%20&%20PG%20Contacts/Service%20Team%20Engagement/FTA%20Service%20Leads_Nov2018.xlsx)
 2. Let them know which IP you intend to create. This is to ensure we avoid duplication of efforts as well as to ensure the team is aware of what IP is coming in the pipeline.
-<br>
 <br>
 <br>
 <br>
@@ -26,7 +24,6 @@ Note: Some teams utilize the work in progress repository: [FTA WIP Repository](h
 ![](/img/Github.newbranch.png?raw=true)
 
 3. Click on the "Create branch __branchname__ from master" popup button.
-<br>
 <br>
 <br>
 <br>
@@ -61,7 +58,6 @@ Note: Some teams utilize the work in progress repository: [FTA WIP Repository](h
 <br>
 <br>
 <br>
-<br>
 
 ## Step 4: Make Changes on Local branch and Push Changes into Your Remote Branch
 1. Create new files or make modifications to existing files on your local machine. If you are new to markdown files, recommend you review the following tutorial: https://guides.github.com/features/mastering-markdown/. You can also use VSCODE to edit markdown files along with a convenient preview pane (https://code.visualstudio.com/Docs/languages/markdown).
@@ -79,7 +75,6 @@ Now, push your local branch changes to the remote branch:
 
 > c:\sourcerepo\fta-deliveryhowto>git push origin fanyv/intelligent-apps
 
-<br>
 <br>
 <br>
 <br>
@@ -112,6 +107,8 @@ You should see a summary of changes to merge in the __Comparing changes__ screen
 
 6. The changes will be merged into the master branch after the scenario leads accept your changes.
 
+<br>
+<br>
 
 
 ## References
