@@ -1,14 +1,18 @@
 # How to Create or Update IP
 
 This article outlines the steps needed to create or update existing FTA IP. It does not cover how to create or update the official Microsoft documentation.
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Step 1: Inform the Category Leads
 1. Reach out to the category leads for the FTA scenario in question.  You may find the list of category leads here [FTA Service Leads](https://microsoft.sharepoint.com/teams/fasttrackforazure/PM/FastTrack%20for%20Azure%20PMO/Service%20Team%20Engagement%20&%20PG%20Contacts/Service%20Team%20Engagement/FTA%20Service%20Leads_Nov2018.xlsx)
 2. Let them know which IP you intend to create. This is to ensure we avoid duplication of efforts as well as to ensure the team is aware of what IP is coming in the pipeline.
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Step 2: Prepare your Remote Git Environment: Create a Remote Branch
 
@@ -22,8 +26,10 @@ Note: Some teams utilize the work in progress repository: [FTA WIP Repository](h
 ![](/img/Github.newbranch.png?raw=true)
 
 3. Click on the "Create branch __branchname__ from master" popup button.
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Step 3: Prepare your Local Git Environment: Create a Local Branch
 1. Download and install Git.exe from https://git-scm.com/downloads. Choose defaults, and choose to update the PATH variable:
@@ -52,8 +58,10 @@ Note: Some teams utilize the work in progress repository: [FTA WIP Repository](h
 > c:\sourcerepo\fta-deliveryhowto>git status
 
 ![Image](/img/gitstatus.png?raw=true)
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Step 4: Make Changes on Local branch and Push Changes into Your Remote Branch
 1. Create new files or make modifications to existing files on your local machine. If you are new to markdown files, recommend you review the following tutorial: https://guides.github.com/features/mastering-markdown/. You can also use VSCODE to edit markdown files along with a convenient preview pane (https://code.visualstudio.com/Docs/languages/markdown).
@@ -71,7 +79,10 @@ Now, push your local branch changes to the remote branch:
 
 > c:\sourcerepo\fta-deliveryhowto>git push origin fanyv/intelligent-apps
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## Step 5: Create a Pull request to Request Changes be Merged into the Master Branch
 
@@ -81,11 +92,11 @@ Now, push your local branch changes to the remote branch:
 
 ![Image](/img/Github.newpullrequest.png?raw=true)
 
-3. In the Compare Changes screen, click on the __compare:master__ dropdown. Select your remote branch.
+3. In the __Compare Changes__ screen, click on the __compare:master__ dropdown. Select your remote branch.
 
 ![Image](/img/Github.pullcompare.png?raw=true)
 
-You should see a summary of changes.
+You should see a summary of changes to merge in the __Comparing changes__ screen.
 
 ![Image](/img/Github.pullcompare2.png?raw=true)
 
